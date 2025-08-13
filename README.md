@@ -78,5 +78,5 @@ This tool is for **educational purposes only** and should not be used for real m
 ---
 
 ## 👨‍💻 Author
-- Developed by [Your Name]
-- 📧 Contact: [your.email@example.com]
+- Developed by [Syed Nabeel Ahmed]
+- 📧 Contact: [nabeelahmedna7860@gmail.com]
