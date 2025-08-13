@@ -72,6 +72,10 @@ The model uses a **Random Forest Classifier** trained on the [Stroke Prediction 
 
 ---
 
+## Project Link
+[https://stoke-prediction-japxndvuiyuqppd4epietu.streamlit.app/]
+
+---
 ## ⚠ Disclaimer
 This tool is for **educational purposes only** and should not be used for real medical diagnosis.
 
